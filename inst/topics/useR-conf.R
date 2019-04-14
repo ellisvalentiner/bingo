@@ -81,5 +81,6 @@ c(
   "benchmark",
   "profiling",
   "is that Hadley Wickham?",
-  "Bayesian"
+  "Bayesian",
+  "hex stickers"
 )
